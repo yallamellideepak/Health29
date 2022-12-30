@@ -6,6 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 *Project Link* -https://victorious-wave-06a116c00.2.azurestaticapps.net/
+
 *project demo video link* - 
 
 ## Azure technologies used for Project
